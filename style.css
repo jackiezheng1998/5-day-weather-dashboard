@@ -1,0 +1,23 @@
+.weather-forecast {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+
+  }
+  .day {
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+
+  }
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
